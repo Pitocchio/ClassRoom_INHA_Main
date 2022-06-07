@@ -57,14 +57,20 @@
     <ClCompile Include="1712_BREAK-EVEN-POINT.cpp">
       <Filter>소스 파일\BAEKJOON</Filter>
     </ClCompile>
-    <ClCompile Include="Temp_Source.cpp">
-      <Filter>소스 파일\CLASS</Filter>
-    </ClCompile>
-    <ClCompile Include="Temp.cpp">
-      <Filter>소스 파일\CLASS</Filter>
-    </ClCompile>
     <ClCompile Include="Main.cpp">
       <Filter>소스 파일\CLASSROOM_C++</Filter>
+    </ClCompile>
+    <ClCompile Include="a.cpp">
+      <Filter>소스 파일\BAEKJOON</Filter>
+    </ClCompile>
+    <ClCompile Include="cVector_source.cpp">
+      <Filter>소스 파일\CLASS</Filter>
+    </ClCompile>
+    <ClCompile Include="cVector.cpp">
+      <Filter>소스 파일\CLASS</Filter>
+    </ClCompile>
+    <ClCompile Include="Permutation.cpp">
+      <Filter>소스 파일\CLASSROOM_ALGORITHM</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
@@ -74,7 +80,7 @@
     <ClInclude Include="Queue.h">
       <Filter>소스 파일\CLASSROOM_ALGORITHM\Queue</Filter>
     </ClInclude>
-    <ClInclude Include="Temp.h">
+    <ClInclude Include="cVector.h">
       <Filter>소스 파일\CLASS</Filter>
     </ClInclude>
   </ItemGroup>

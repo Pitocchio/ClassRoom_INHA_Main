@@ -1,3 +1,3 @@
-﻿  Temp_Source.cpp
-C:\Users\chanjun\Downloads\ConsoleApplication3\Temp_Source.cpp(2,10): warning C4067: 전처리기 지시문 다음에 예기치 않은 토큰이 있습니다. 줄 바꿈 문자가 필요합니다.
-  ConsoleApplication3.vcxproj -> C:\Users\chanjun\Downloads\ConsoleApplication3\Debug\ConsoleApplication3.exe
+﻿  Permutation.cpp
+C:\Users\chanjun\Documents\ClassRoom_INHA\CH_CLASSROOM\Permutation.cpp(25,27): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  ConsoleApplication3.vcxproj -> C:\Users\chanjun\Documents\ClassRoom_INHA\CH_CLASSROOM\Debug\ConsoleApplication3.exe
