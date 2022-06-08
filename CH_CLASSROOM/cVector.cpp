@@ -9,6 +9,7 @@ int main()
 
 	cout << "Q1.(a)    u + v = " << u + v << "\n\n";
 	cout << "Q1.(b)    u - v = " << u - v << "\n\n";
+
 	cout << "Q1.(c)    3u + 2v = " << (u * 3) + (v * 2) << "\n\n";
 	cout << "Q1.(d)    -2u + v = " << (u * -2) + v << "\n\n";
 

@@ -16,37 +16,55 @@
     <Filter Include="소스 파일\BAEKJOON">
       <UniqueIdentifier>{d96e3a02-4d59-47eb-8ef1-17beb6c83c29}</UniqueIdentifier>
     </Filter>
-    <Filter Include="소스 파일\CLASS">
-      <UniqueIdentifier>{0211f96b-5cda-45c1-9122-9d621f8dc29c}</UniqueIdentifier>
-    </Filter>
     <Filter Include="소스 파일\Text">
       <UniqueIdentifier>{2ed0029a-3322-4087-938c-d4b60740e817}</UniqueIdentifier>
     </Filter>
-    <Filter Include="소스 파일\CLASSROOM_ALGORITHM">
+    <Filter Include="소스 파일\CLASSROOM/ALGORITHM">
       <UniqueIdentifier>{a2a3dce0-2a3d-4ff9-a3cd-8179d209f969}</UniqueIdentifier>
     </Filter>
-    <Filter Include="소스 파일\CLASSROOM_ALGORITHM\Stack">
+    <Filter Include="소스 파일\CLASSROOM/ALGORITHM\Stack">
       <UniqueIdentifier>{6d49bbc4-788a-4ffb-ba20-a26d448c62f3}</UniqueIdentifier>
     </Filter>
-    <Filter Include="소스 파일\CLASSROOM_ALGORITHM\Queue">
+    <Filter Include="소스 파일\CLASSROOM/ALGORITHM\Queue">
       <UniqueIdentifier>{bab14ec3-14c0-4050-8aa9-f01197f29ad2}</UniqueIdentifier>
     </Filter>
-    <Filter Include="소스 파일\CLASSROOM_C++">
+    <Filter Include="소스 파일\CLASSROOM/C++">
       <UniqueIdentifier>{d630b51f-6f42-419f-b83a-809a4ade2a7e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\CLASSROOM/ALGORITHM\Permutation">
+      <UniqueIdentifier>{5d4871e3-d404-4554-80c1-4191b3ead38d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\CLASSROOM/C++\class Operator">
+      <UniqueIdentifier>{57d79ada-be66-4b4a-b2b2-ff13880f5008}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\CLASSROOM/C++\class Vector">
+      <UniqueIdentifier>{f0300873-cdd4-4dec-a6ea-a872ba3aca5d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\CLASSROOM/C++\class Circle2D">
+      <UniqueIdentifier>{923e8a66-1394-4440-8513-9f9a7c62dcab}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\CLASSROOM/C++\class Rectangle2D">
+      <UniqueIdentifier>{9a8ddb16-5ba9-4a12-b350-b9f9df23759e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\CLASSROOM/C++\class Mypoint">
+      <UniqueIdentifier>{599b97a6-a345-49a2-9edb-d15b64e69f85}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\CLASSROOM/ALGORITHM\Calculator">
+      <UniqueIdentifier>{8e3b37c5-0e6d-4470-a0d7-c80d794ec9db}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Stack_source.cpp">
-      <Filter>소스 파일\CLASSROOM_ALGORITHM\Stack</Filter>
+      <Filter>소스 파일\CLASSROOM/ALGORITHM\Stack</Filter>
     </ClCompile>
     <ClCompile Include="Stack.cpp">
-      <Filter>소스 파일\CLASSROOM_ALGORITHM\Stack</Filter>
+      <Filter>소스 파일\CLASSROOM/ALGORITHM\Stack</Filter>
     </ClCompile>
     <ClCompile Include="Queue_source.cpp">
-      <Filter>소스 파일\CLASSROOM_ALGORITHM\Queue</Filter>
+      <Filter>소스 파일\CLASSROOM/ALGORITHM\Queue</Filter>
     </ClCompile>
     <ClCompile Include="Queue.cpp">
-      <Filter>소스 파일\CLASSROOM_ALGORITHM\Queue</Filter>
+      <Filter>소스 파일\CLASSROOM/ALGORITHM\Queue</Filter>
     </ClCompile>
     <ClCompile Include="4673_SelfNumber.cpp">
       <Filter>소스 파일\BAEKJOON</Filter>
@@ -58,37 +76,76 @@
       <Filter>소스 파일\BAEKJOON</Filter>
     </ClCompile>
     <ClCompile Include="Main.cpp">
-      <Filter>소스 파일\CLASSROOM_C++</Filter>
+      <Filter>소스 파일\CLASSROOM/C++</Filter>
     </ClCompile>
     <ClCompile Include="a.cpp">
       <Filter>소스 파일\BAEKJOON</Filter>
     </ClCompile>
-    <ClCompile Include="cVector_source.cpp">
-      <Filter>소스 파일\CLASS</Filter>
-    </ClCompile>
     <ClCompile Include="cVector.cpp">
-      <Filter>소스 파일\CLASS</Filter>
+      <Filter>소스 파일\CLASSROOM/C++\class Vector</Filter>
+    </ClCompile>
+    <ClCompile Include="cVector_source.cpp">
+      <Filter>소스 파일\CLASSROOM/C++\class Vector</Filter>
     </ClCompile>
     <ClCompile Include="Permutation.cpp">
-      <Filter>소스 파일\CLASSROOM_ALGORITHM</Filter>
+      <Filter>소스 파일\CLASSROOM/ALGORITHM\Permutation</Filter>
+    </ClCompile>
+    <ClCompile Include="OperatorSource.cpp">
+      <Filter>소스 파일\CLASSROOM/C++\class Operator</Filter>
+    </ClCompile>
+    <ClCompile Include="Operator.cpp">
+      <Filter>소스 파일\CLASSROOM/C++\class Operator</Filter>
+    </ClCompile>
+    <ClCompile Include="Circle2D_Source.cpp">
+      <Filter>소스 파일\CLASSROOM/C++\class Circle2D</Filter>
+    </ClCompile>
+    <ClCompile Include="Circle2D.cpp">
+      <Filter>소스 파일\CLASSROOM/C++\class Circle2D</Filter>
+    </ClCompile>
+    <ClCompile Include="Rectangle2D.cpp">
+      <Filter>소스 파일\CLASSROOM/C++\class Rectangle2D</Filter>
+    </ClCompile>
+    <ClCompile Include="Rectangle2D_Source.cpp">
+      <Filter>소스 파일\CLASSROOM/C++\class Rectangle2D</Filter>
+    </ClCompile>
+    <ClCompile Include="Mypoint_Source.cpp">
+      <Filter>소스 파일\CLASSROOM/C++\class Mypoint</Filter>
+    </ClCompile>
+    <ClCompile Include="Mypoint.cpp">
+      <Filter>소스 파일\CLASSROOM/C++\class Mypoint</Filter>
+    </ClCompile>
+    <ClCompile Include="Calculator_Main.cpp">
+      <Filter>소스 파일\CLASSROOM/ALGORITHM\Calculator</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Stack.h">
-      <Filter>소스 파일\CLASSROOM_ALGORITHM\Stack</Filter>
+      <Filter>소스 파일\CLASSROOM/ALGORITHM\Stack</Filter>
     </ClInclude>
     <ClInclude Include="Queue.h">
-      <Filter>소스 파일\CLASSROOM_ALGORITHM\Queue</Filter>
+      <Filter>소스 파일\CLASSROOM/ALGORITHM\Queue</Filter>
     </ClInclude>
     <ClInclude Include="cVector.h">
-      <Filter>소스 파일\CLASS</Filter>
+      <Filter>소스 파일\CLASSROOM/C++\class Vector</Filter>
+    </ClInclude>
+    <ClInclude Include="Operator.h">
+      <Filter>소스 파일\CLASSROOM/C++\class Operator</Filter>
+    </ClInclude>
+    <ClInclude Include="Circle2D.h">
+      <Filter>소스 파일\CLASSROOM/C++\class Circle2D</Filter>
+    </ClInclude>
+    <ClInclude Include="Rectangle2D.h">
+      <Filter>소스 파일\CLASSROOM/C++\class Rectangle2D</Filter>
+    </ClInclude>
+    <ClInclude Include="Mypoint.h">
+      <Filter>소스 파일\CLASSROOM/C++\class Mypoint</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <Text Include="Temp.txt">
+    <Text Include="Memo.txt">
       <Filter>소스 파일\Text</Filter>
     </Text>
-    <Text Include="Git.txt">
+    <Text Include="Temp.txt">
       <Filter>소스 파일\Text</Filter>
     </Text>
   </ItemGroup>

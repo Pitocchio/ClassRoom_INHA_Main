@@ -5,13 +5,14 @@
 
 cVector3::cVector3()
 {
-
+	m_x = m_y = m_z = 0;
 }
 
 cVector3::~cVector3()
 {
 
 }
+
 cVector3::cVector3(double x, double y, double z)
 {
 	m_x = x;
