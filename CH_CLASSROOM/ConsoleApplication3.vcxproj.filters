@@ -132,7 +132,7 @@
     <ClCompile Include="string2.cpp">
       <Filter>소스 파일\C++\CLASS\Static/Pointer in Class</Filter>
     </ClCompile>
-    <ClCompile Include="Calculator_ver2.cpp">
+    <ClCompile Include="Calculator.cpp">
       <Filter>소스 파일\ALGORITHM\Calculator</Filter>
     </ClCompile>
   </ItemGroup>
