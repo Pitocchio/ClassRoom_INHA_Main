@@ -29,6 +29,6 @@ class Rectangle2D
 		bool IsContains(const Rectangle2D &r);
 		bool IsOverlaps(const Rectangle2D& r);
 
-		bool Contains(Mypoint& p);
+		bool IsContains(Mypoint& p);
 
 };

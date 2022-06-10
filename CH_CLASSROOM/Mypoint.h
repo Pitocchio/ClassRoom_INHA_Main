@@ -21,9 +21,9 @@ class Mypoint
 
 		double Cal_Distance(Mypoint& p);
 
-		friend bool Circle2D::Contains(Mypoint& p);
+		friend bool Circle2D::IsContains(Mypoint& p);
 
-		friend bool Rectangle2D::Contains(Mypoint& p);
+		friend bool Rectangle2D::IsContains(Mypoint& p);
 };
 
 

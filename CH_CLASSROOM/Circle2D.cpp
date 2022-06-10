@@ -11,8 +11,7 @@ int main(void)
 	cout << c1.Get_Area() << "\n";
 	cout << c1.Get_Perimeter() << "\n";
 
-	cout << c1.Contains(3, 3) << "\n";
-	cout << c1.Contains(c2) << "\n";
+	cout << c1.IsContains(3, 3) << "\n";
+	cout << c1.IsContains(c2) << "\n";
 	cout << c1.Overlaps(c3) << "\n";
-
 }

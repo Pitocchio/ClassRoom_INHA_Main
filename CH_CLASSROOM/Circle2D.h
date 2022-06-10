@@ -17,10 +17,10 @@ class Circle2D
 
 		double Get_Area(); 
 		double Get_Perimeter(); 
-		bool Contains(double x, double y);
-		bool Contains(const Circle2D& circle); 
+		bool IsContains(double x, double y);
+		bool IsContains(const Circle2D& circle); 
 		bool Overlaps(const Circle2D& circle); 
 
-		bool Contains(Mypoint& p);
+		bool IsContains(Mypoint& p);
 
 };

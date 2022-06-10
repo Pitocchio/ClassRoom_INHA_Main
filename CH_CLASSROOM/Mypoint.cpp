@@ -14,11 +14,11 @@ int main()
 	//cout << "c1 내부에 p1, p2가 있는지 여부 : " << contains(c1, p1) << ", " << contains(c1, p2) << '\n';
 
 	cout << "r1 내부에 p1, p2가 있는지 여부 : ";
-	r1.Contains(p1) ? cout << "TRUE" : cout << "FALSE"; cout << ", ";
-	r1.Contains(p2) ? cout << "TRUE" : cout << "FALSE"; cout << '\n';
+	r1.IsContains(p1) ? cout << "TRUE" : cout << "FALSE"; cout << ", ";
+	r1.IsContains(p2) ? cout << "TRUE" : cout << "FALSE"; cout << '\n';
 	cout << "c1 내부에 p1, p2가 있는지 여부 : ";
-	c1.Contains(p1) ? cout << "TRUE" : cout << "FALSE"; cout << ", ";
-	c1.Contains(p2) ? cout << "TRUE" : cout << "FALSE"; cout << '\n';
+	c1.IsContains(p1) ? cout << "TRUE" : cout << "FALSE"; cout << ", ";
+	c1.IsContains(p2) ? cout << "TRUE" : cout << "FALSE"; cout << '\n';
 	return 0;
 }
 

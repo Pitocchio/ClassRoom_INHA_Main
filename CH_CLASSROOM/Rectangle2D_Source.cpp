@@ -112,7 +112,7 @@ bool Rectangle2D::IsOverlaps(const Rectangle2D& r)
 }
 
 
-bool Rectangle2D::Contains(Mypoint& p)
+bool Rectangle2D::IsContains(Mypoint& p)
 {
 	double top_heightY1 = m_y + (m_height / 2);
 	double bottom_heightY1 = m_y - (m_height / 2);

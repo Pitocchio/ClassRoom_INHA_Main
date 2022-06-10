@@ -46,7 +46,7 @@ double Circle2D::Get_Perimeter()
 	return m_radius * 2 * PI;
 }
 
-bool Circle2D::Contains(double x, double y) 
+bool Circle2D::IsContains(double x, double y) 
 {
 	if ((m_radius * m_radius) > ((m_x - x) * (m_x - x)) + ((m_y - y) * (m_y - y)))
 		return 1;
@@ -54,7 +54,7 @@ bool Circle2D::Contains(double x, double y)
 		return 0;
 }
 
-bool Circle2D::Contains(const Circle2D& circle) 
+bool Circle2D::IsContains(const Circle2D& circle) 
 {
 	double dis = sqrt(pow((m_x - circle.m_x), 2) + pow((m_y - circle.m_y), 2));
 
@@ -76,7 +76,7 @@ bool Circle2D::Overlaps(const Circle2D& circle)
 	
 }
 
-bool Circle2D::Contains(Mypoint& p)
+bool Circle2D::IsContains(Mypoint& p)
 {
 	if ((m_radius * m_radius) > ((m_x - p.Get_x()) * (m_x - p.Get_x())) + ((m_y - p.Get_y()) * (m_y - p.Get_y())))
 		return 1;
