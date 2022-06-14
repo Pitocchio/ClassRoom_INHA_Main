@@ -4,27 +4,27 @@ using std::string;
 
 class TableTennisPlayer
 {
-private:
-	string firstname;
-	string lastname;
-	bool hasTable;
+	private:
+		string firstname;
+		string lastname;
+		bool hasTable;
 
-public :
-	TableTennisPlayer(const string& fn = "none", const string& ln = "none", bool ht = false);
+	public :
+		TableTennisPlayer(const string& fn = "none", const string& ln = "none", bool ht = false);
 
-	void Name() const;
-	bool HasTable() const { return hasTable; }
-	void ResetTable(bool v) { hasTable = v; }
+		void Name() const;
+		bool HasTable() const { return hasTable; }
+		void ResetTable(bool v) { hasTable = v; }
 };
 
 class RatedPlayer : public TableTennisPlayer // 상속 클래스 정의
 {
-private :
-	unsigned int rating;
+	private :
+		unsigned int rating;
 
-	public :RatedPlayer(unsigned int r = 0, const string& fn = "none", 
-						const string& ln = "none", bool ht = false);
-		   RatedPlayer(unsigned int r, const TableTennisPlayer& tp);
-		   unsigned int Rating() { return rating; }
-		   void ResetRating(unsigned int r) { rating = r; }
+		public :RatedPlayer(unsigned int r = 0, const string& fn = "none", 
+							const string& ln = "none", bool ht = false);
+			   RatedPlayer(unsigned int r, const TableTennisPlayer& tp);
+			   unsigned int Rating() { return rating; }
+			   void ResetRating(unsigned int r) { rating = r; }
 };

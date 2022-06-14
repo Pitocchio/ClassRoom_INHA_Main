@@ -13,197 +13,212 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
-    <Filter Include="소스 파일\BAEKJOON">
+    <Filter Include="소스 파일\1. BAEKJOON">
       <UniqueIdentifier>{d96e3a02-4d59-47eb-8ef1-17beb6c83c29}</UniqueIdentifier>
     </Filter>
-    <Filter Include="소스 파일\ALGORITHM">
-      <UniqueIdentifier>{a2a3dce0-2a3d-4ff9-a3cd-8179d209f969}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="소스 파일\ALGORITHM\Stack">
-      <UniqueIdentifier>{6d49bbc4-788a-4ffb-ba20-a26d448c62f3}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="소스 파일\ALGORITHM\Queue">
-      <UniqueIdentifier>{bab14ec3-14c0-4050-8aa9-f01197f29ad2}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="소스 파일\ALGORITHM\Permutation">
-      <UniqueIdentifier>{5d4871e3-d404-4554-80c1-4191b3ead38d}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="소스 파일\ALGORITHM\Calculator">
-      <UniqueIdentifier>{8e3b37c5-0e6d-4470-a0d7-c80d794ec9db}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="소스 파일\C++">
+    <Filter Include="소스 파일\2. C++">
       <UniqueIdentifier>{d630b51f-6f42-419f-b83a-809a4ade2a7e}</UniqueIdentifier>
     </Filter>
-    <Filter Include="소스 파일\TEXT">
-      <UniqueIdentifier>{2ed0029a-3322-4087-938c-d4b60740e817}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="소스 파일\C++\CLASS">
+    <Filter Include="소스 파일\2. C++\CLASS">
       <UniqueIdentifier>{af276858-6bfe-4c23-b043-7bf95af96c1d}</UniqueIdentifier>
     </Filter>
-    <Filter Include="소스 파일\C++\CLASS\Operator">
+    <Filter Include="소스 파일\2. C++\CLASS\Operator">
       <UniqueIdentifier>{57d79ada-be66-4b4a-b2b2-ff13880f5008}</UniqueIdentifier>
     </Filter>
-    <Filter Include="소스 파일\C++\CLASS\GEOMETRY">
+    <Filter Include="소스 파일\2. C++\CLASS\GEOMETRY">
       <UniqueIdentifier>{e170d114-0937-4f09-9fea-c13f549e6998}</UniqueIdentifier>
     </Filter>
-    <Filter Include="소스 파일\C++\CLASS\Static/Pointer in Class">
-      <UniqueIdentifier>{08ac69e9-01cd-4726-b2a6-8f30ef3a36ab}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="소스 파일\C++\CLASS\INHERITANCE">
-      <UniqueIdentifier>{95a5d867-4274-425d-9f66-98c186406b61}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="소스 파일\C++\CLASS\INHERITANCE\TableTennis">
-      <UniqueIdentifier>{4026ca64-9257-4f44-95cf-ba806c27c270}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="소스 파일\C++\CLASS\GEOMETRY\Vector">
+    <Filter Include="소스 파일\2. C++\CLASS\GEOMETRY\Vector">
       <UniqueIdentifier>{f0300873-cdd4-4dec-a6ea-a872ba3aca5d}</UniqueIdentifier>
     </Filter>
-    <Filter Include="소스 파일\C++\CLASS\INHERITANCE\New/Friebd">
-      <UniqueIdentifier>{8bea314f-77e6-4e91-acd5-cf9d4ecf4aae}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="소스 파일\C++\CLASS\GEOMETRY\GEOMETRIC_OBJECT">
+    <Filter Include="소스 파일\2. C++\CLASS\GEOMETRY\GEOMETRIC_OBJECT">
       <UniqueIdentifier>{e508224e-3ec6-47a5-b1d9-01ffb305c8be}</UniqueIdentifier>
     </Filter>
-    <Filter Include="소스 파일\C++\CLASS\GEOMETRY\Circle2D">
+    <Filter Include="소스 파일\2. C++\CLASS\GEOMETRY\Circle2D">
       <UniqueIdentifier>{923e8a66-1394-4440-8513-9f9a7c62dcab}</UniqueIdentifier>
     </Filter>
-    <Filter Include="소스 파일\C++\CLASS\GEOMETRY\Mypoint">
+    <Filter Include="소스 파일\2. C++\CLASS\GEOMETRY\Mypoint">
       <UniqueIdentifier>{599b97a6-a345-49a2-9edb-d15b64e69f85}</UniqueIdentifier>
     </Filter>
-    <Filter Include="소스 파일\C++\CLASS\GEOMETRY\Rectangle2D">
+    <Filter Include="소스 파일\2. C++\CLASS\GEOMETRY\Rectangle2D">
       <UniqueIdentifier>{9a8ddb16-5ba9-4a12-b350-b9f9df23759e}</UniqueIdentifier>
     </Filter>
-    <Filter Include="소스 파일\ALGORITHM\Tower of Hanoi">
+    <Filter Include="소스 파일\2. C++\CLASS\Static/Pointer in Class">
+      <UniqueIdentifier>{08ac69e9-01cd-4726-b2a6-8f30ef3a36ab}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\2. C++\CLASS\INHERITANCE">
+      <UniqueIdentifier>{95a5d867-4274-425d-9f66-98c186406b61}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\2. C++\CLASS\INHERITANCE\TableTennis">
+      <UniqueIdentifier>{4026ca64-9257-4f44-95cf-ba806c27c270}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\2. C++\CLASS\INHERITANCE\New/Friebd">
+      <UniqueIdentifier>{8bea314f-77e6-4e91-acd5-cf9d4ecf4aae}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\2. C++\CLASS\StopWatch">
+      <UniqueIdentifier>{8ed88bf7-6d48-4946-8208-b821cb4bef80}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\3. ALGORITHM">
+      <UniqueIdentifier>{a2a3dce0-2a3d-4ff9-a3cd-8179d209f969}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\3. ALGORITHM\Stack">
+      <UniqueIdentifier>{6d49bbc4-788a-4ffb-ba20-a26d448c62f3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\3. ALGORITHM\Queue">
+      <UniqueIdentifier>{bab14ec3-14c0-4050-8aa9-f01197f29ad2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\3. ALGORITHM\Permutation">
+      <UniqueIdentifier>{5d4871e3-d404-4554-80c1-4191b3ead38d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\3. ALGORITHM\Calculator">
+      <UniqueIdentifier>{8e3b37c5-0e6d-4470-a0d7-c80d794ec9db}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\3. ALGORITHM\Tower of Hanoi">
       <UniqueIdentifier>{6641ee96-6cc6-4278-a6cd-7c635048b441}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\4. TEXT">
+      <UniqueIdentifier>{2ed0029a-3322-4087-938c-d4b60740e817}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\5.Temp">
+      <UniqueIdentifier>{6ff1d18c-002e-4e9e-8844-2d3dbaa92321}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Stack_source.cpp">
-      <Filter>소스 파일\ALGORITHM\Stack</Filter>
+      <Filter>소스 파일\3. ALGORITHM\Stack</Filter>
     </ClCompile>
     <ClCompile Include="Stack.cpp">
-      <Filter>소스 파일\ALGORITHM\Stack</Filter>
+      <Filter>소스 파일\3. ALGORITHM\Stack</Filter>
     </ClCompile>
     <ClCompile Include="Queue_source.cpp">
-      <Filter>소스 파일\ALGORITHM\Queue</Filter>
+      <Filter>소스 파일\3. ALGORITHM\Queue</Filter>
     </ClCompile>
     <ClCompile Include="Queue.cpp">
-      <Filter>소스 파일\ALGORITHM\Queue</Filter>
+      <Filter>소스 파일\3. ALGORITHM\Queue</Filter>
     </ClCompile>
     <ClCompile Include="4673_SelfNumber.cpp">
-      <Filter>소스 파일\BAEKJOON</Filter>
+      <Filter>소스 파일\1. BAEKJOON</Filter>
     </ClCompile>
     <ClCompile Include="10809_Find-Ahlpa.cpp">
-      <Filter>소스 파일\BAEKJOON</Filter>
+      <Filter>소스 파일\1. BAEKJOON</Filter>
     </ClCompile>
     <ClCompile Include="1712_BREAK-EVEN-POINT.cpp">
-      <Filter>소스 파일\BAEKJOON</Filter>
+      <Filter>소스 파일\1. BAEKJOON</Filter>
     </ClCompile>
     <ClCompile Include="a.cpp">
-      <Filter>소스 파일\BAEKJOON</Filter>
+      <Filter>소스 파일\1. BAEKJOON</Filter>
     </ClCompile>
     <ClCompile Include="cVector.cpp">
-      <Filter>소스 파일\C++\CLASS\GEOMETRY\Vector</Filter>
+      <Filter>소스 파일\2. C++\CLASS\GEOMETRY\Vector</Filter>
     </ClCompile>
     <ClCompile Include="cVector_source.cpp">
-      <Filter>소스 파일\C++\CLASS\GEOMETRY\Vector</Filter>
+      <Filter>소스 파일\2. C++\CLASS\GEOMETRY\Vector</Filter>
     </ClCompile>
     <ClCompile Include="Permutation.cpp">
-      <Filter>소스 파일\ALGORITHM\Permutation</Filter>
+      <Filter>소스 파일\3. ALGORITHM\Permutation</Filter>
     </ClCompile>
     <ClCompile Include="OperatorSource.cpp">
-      <Filter>소스 파일\C++\CLASS\Operator</Filter>
+      <Filter>소스 파일\2. C++\CLASS\Operator</Filter>
     </ClCompile>
     <ClCompile Include="Operator.cpp">
-      <Filter>소스 파일\C++\CLASS\Operator</Filter>
+      <Filter>소스 파일\2. C++\CLASS\Operator</Filter>
     </ClCompile>
     <ClCompile Include="Circle2D_Source.cpp">
-      <Filter>소스 파일\C++\CLASS\GEOMETRY\Circle2D</Filter>
+      <Filter>소스 파일\2. C++\CLASS\GEOMETRY\Circle2D</Filter>
     </ClCompile>
     <ClCompile Include="Circle2D.cpp">
-      <Filter>소스 파일\C++\CLASS\GEOMETRY\Circle2D</Filter>
+      <Filter>소스 파일\2. C++\CLASS\GEOMETRY\Circle2D</Filter>
     </ClCompile>
     <ClCompile Include="Rectangle2D.cpp">
-      <Filter>소스 파일\C++\CLASS\GEOMETRY\Rectangle2D</Filter>
+      <Filter>소스 파일\2. C++\CLASS\GEOMETRY\Rectangle2D</Filter>
     </ClCompile>
     <ClCompile Include="Mypoint_Source.cpp">
-      <Filter>소스 파일\C++\CLASS\GEOMETRY\Mypoint</Filter>
+      <Filter>소스 파일\2. C++\CLASS\GEOMETRY\Mypoint</Filter>
     </ClCompile>
     <ClCompile Include="Mypoint.cpp">
-      <Filter>소스 파일\C++\CLASS\GEOMETRY\Mypoint</Filter>
+      <Filter>소스 파일\2. C++\CLASS\GEOMETRY\Mypoint</Filter>
     </ClCompile>
     <ClCompile Include="string1_source.cpp">
-      <Filter>소스 파일\C++\CLASS\Static/Pointer in Class</Filter>
+      <Filter>소스 파일\2. C++\CLASS\Static/Pointer in Class</Filter>
     </ClCompile>
     <ClCompile Include="string1.cpp">
-      <Filter>소스 파일\C++\CLASS\Static/Pointer in Class</Filter>
+      <Filter>소스 파일\2. C++\CLASS\Static/Pointer in Class</Filter>
     </ClCompile>
     <ClCompile Include="string2.cpp">
-      <Filter>소스 파일\C++\CLASS\Static/Pointer in Class</Filter>
+      <Filter>소스 파일\2. C++\CLASS\Static/Pointer in Class</Filter>
     </ClCompile>
     <ClCompile Include="Calculator.cpp">
-      <Filter>소스 파일\ALGORITHM\Calculator</Filter>
-    </ClCompile>
-    <ClCompile Include="Main.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\3. ALGORITHM\Calculator</Filter>
     </ClCompile>
     <ClCompile Include="tabtenn1.cpp">
-      <Filter>소스 파일\C++\CLASS\INHERITANCE\TableTennis</Filter>
+      <Filter>소스 파일\2. C++\CLASS\INHERITANCE\TableTennis</Filter>
     </ClCompile>
     <ClCompile Include="usett1.cpp">
-      <Filter>소스 파일\C++\CLASS\INHERITANCE\TableTennis</Filter>
+      <Filter>소스 파일\2. C++\CLASS\INHERITANCE\TableTennis</Filter>
     </ClCompile>
     <ClCompile Include="Rectangle2D_Source.cpp">
-      <Filter>소스 파일\C++\CLASS\GEOMETRY\Rectangle2D</Filter>
+      <Filter>소스 파일\2. C++\CLASS\GEOMETRY\Rectangle2D</Filter>
     </ClCompile>
     <ClCompile Include="GeometricObject.cpp">
-      <Filter>소스 파일\C++\CLASS\GEOMETRY\GEOMETRIC_OBJECT</Filter>
+      <Filter>소스 파일\2. C++\CLASS\GEOMETRY\GEOMETRIC_OBJECT</Filter>
     </ClCompile>
     <ClCompile Include="TowerOfHanoi.cpp">
-      <Filter>소스 파일\ALGORITHM\Tower of Hanoi</Filter>
+      <Filter>소스 파일\3. ALGORITHM\Tower of Hanoi</Filter>
+    </ClCompile>
+    <ClCompile Include="StopWatch_source.cpp">
+      <Filter>소스 파일\2. C++\CLASS\StopWatch</Filter>
+    </ClCompile>
+    <ClCompile Include="StopWatch.cpp">
+      <Filter>소스 파일\2. C++\CLASS\StopWatch</Filter>
+    </ClCompile>
+    <ClCompile Include="TEMP22.cpp">
+      <Filter>소스 파일\5.Temp</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Stack.h">
-      <Filter>소스 파일\ALGORITHM\Stack</Filter>
+      <Filter>소스 파일\3. ALGORITHM\Stack</Filter>
     </ClInclude>
     <ClInclude Include="Queue.h">
-      <Filter>소스 파일\ALGORITHM\Queue</Filter>
+      <Filter>소스 파일\3. ALGORITHM\Queue</Filter>
     </ClInclude>
     <ClInclude Include="cVector.h">
-      <Filter>소스 파일\C++\CLASS\GEOMETRY\Vector</Filter>
+      <Filter>소스 파일\2. C++\CLASS\GEOMETRY\Vector</Filter>
     </ClInclude>
     <ClInclude Include="Operator.h">
-      <Filter>소스 파일\C++\CLASS\Operator</Filter>
+      <Filter>소스 파일\2. C++\CLASS\Operator</Filter>
     </ClInclude>
     <ClInclude Include="Circle2D.h">
-      <Filter>소스 파일\C++\CLASS\GEOMETRY\Circle2D</Filter>
+      <Filter>소스 파일\2. C++\CLASS\GEOMETRY\Circle2D</Filter>
     </ClInclude>
     <ClInclude Include="Mypoint.h">
-      <Filter>소스 파일\C++\CLASS\GEOMETRY\Mypoint</Filter>
+      <Filter>소스 파일\2. C++\CLASS\GEOMETRY\Mypoint</Filter>
     </ClInclude>
     <ClInclude Include="string1.h">
-      <Filter>소스 파일\C++\CLASS\Static/Pointer in Class</Filter>
+      <Filter>소스 파일\2. C++\CLASS\Static/Pointer in Class</Filter>
     </ClInclude>
     <ClInclude Include="tabtenn1.h">
-      <Filter>소스 파일\C++\CLASS\INHERITANCE\TableTennis</Filter>
+      <Filter>소스 파일\2. C++\CLASS\INHERITANCE\TableTennis</Filter>
     </ClInclude>
     <ClInclude Include="dma.h">
-      <Filter>소스 파일\C++\CLASS\INHERITANCE\New/Friebd</Filter>
+      <Filter>소스 파일\2. C++\CLASS\INHERITANCE\New/Friebd</Filter>
     </ClInclude>
     <ClInclude Include="Rectangle2D.h">
-      <Filter>소스 파일\C++\CLASS\GEOMETRY\Rectangle2D</Filter>
+      <Filter>소스 파일\2. C++\CLASS\GEOMETRY\Rectangle2D</Filter>
     </ClInclude>
     <ClInclude Include="GeometricObject.h">
-      <Filter>소스 파일\C++\CLASS\GEOMETRY\GEOMETRIC_OBJECT</Filter>
+      <Filter>소스 파일\2. C++\CLASS\GEOMETRY\GEOMETRIC_OBJECT</Filter>
+    </ClInclude>
+    <ClInclude Include="StopWatch.h">
+      <Filter>소스 파일\2. C++\CLASS\StopWatch</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="Memo.txt">
-      <Filter>소스 파일\TEXT</Filter>
+      <Filter>소스 파일\4. TEXT</Filter>
     </Text>
     <Text Include="Temp.txt">
-      <Filter>소스 파일\TEXT</Filter>
+      <Filter>소스 파일\4. TEXT</Filter>
     </Text>
   </ItemGroup>
 </Project>
