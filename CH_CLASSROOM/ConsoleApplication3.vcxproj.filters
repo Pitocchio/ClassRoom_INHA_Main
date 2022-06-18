@@ -58,43 +58,58 @@
     <Filter Include="소스 파일\2. C++\CLASS\StopWatch">
       <UniqueIdentifier>{8ed88bf7-6d48-4946-8208-b821cb4bef80}</UniqueIdentifier>
     </Filter>
-    <Filter Include="소스 파일\3. ALGORITHM">
-      <UniqueIdentifier>{a2a3dce0-2a3d-4ff9-a3cd-8179d209f969}</UniqueIdentifier>
+    <Filter Include="소스 파일\2. C++\CLASS\ExceptionHandling">
+      <UniqueIdentifier>{5dd680e3-a0ee-4d54-ad8b-96dc15dfbc21}</UniqueIdentifier>
     </Filter>
-    <Filter Include="소스 파일\3. ALGORITHM\Stack">
-      <UniqueIdentifier>{6d49bbc4-788a-4ffb-ba20-a26d448c62f3}</UniqueIdentifier>
+    <Filter Include="소스 파일\3. DATA STRUCTURE">
+      <UniqueIdentifier>{4f5185a0-09c1-49eb-b627-9793a47c0c9e}</UniqueIdentifier>
     </Filter>
-    <Filter Include="소스 파일\3. ALGORITHM\Queue">
+    <Filter Include="소스 파일\3. DATA STRUCTURE\Queue">
       <UniqueIdentifier>{bab14ec3-14c0-4050-8aa9-f01197f29ad2}</UniqueIdentifier>
     </Filter>
-    <Filter Include="소스 파일\3. ALGORITHM\Permutation">
+    <Filter Include="소스 파일\3. DATA STRUCTURE\Stack">
+      <UniqueIdentifier>{6d49bbc4-788a-4ffb-ba20-a26d448c62f3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\4. ALGORITHM">
+      <UniqueIdentifier>{a2a3dce0-2a3d-4ff9-a3cd-8179d209f969}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\4. ALGORITHM\Permutation">
       <UniqueIdentifier>{5d4871e3-d404-4554-80c1-4191b3ead38d}</UniqueIdentifier>
     </Filter>
-    <Filter Include="소스 파일\3. ALGORITHM\Calculator">
+    <Filter Include="소스 파일\4. ALGORITHM\Calculator">
       <UniqueIdentifier>{8e3b37c5-0e6d-4470-a0d7-c80d794ec9db}</UniqueIdentifier>
     </Filter>
-    <Filter Include="소스 파일\3. ALGORITHM\Tower of Hanoi">
+    <Filter Include="소스 파일\4. ALGORITHM\Tower of Hanoi">
       <UniqueIdentifier>{6641ee96-6cc6-4278-a6cd-7c635048b441}</UniqueIdentifier>
     </Filter>
-    <Filter Include="소스 파일\4. TEXT">
-      <UniqueIdentifier>{2ed0029a-3322-4087-938c-d4b60740e817}</UniqueIdentifier>
+    <Filter Include="소스 파일\4. ALGORITHM\Sorting">
+      <UniqueIdentifier>{ea66493b-ea4e-4a9d-bbb6-7c5a4a3892fc}</UniqueIdentifier>
     </Filter>
-    <Filter Include="소스 파일\5.Temp">
+    <Filter Include="소스 파일\4. ALGORITHM\Sorting\Bubble Sorting">
+      <UniqueIdentifier>{a5ccc60f-aada-44ad-b78b-23024f8c981d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Etc">
+      <UniqueIdentifier>{7169a019-9008-4294-939d-a6ec106522c3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Etc\tmp">
       <UniqueIdentifier>{6ff1d18c-002e-4e9e-8844-2d3dbaa92321}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Etc\txt">
+      <UniqueIdentifier>{2ed0029a-3322-4087-938c-d4b60740e817}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Stack_source.cpp">
-      <Filter>소스 파일\3. ALGORITHM\Stack</Filter>
+      <Filter>소스 파일\3. DATA STRUCTURE\Stack</Filter>
     </ClCompile>
     <ClCompile Include="Stack.cpp">
-      <Filter>소스 파일\3. ALGORITHM\Stack</Filter>
+      <Filter>소스 파일\3. DATA STRUCTURE\Stack</Filter>
     </ClCompile>
     <ClCompile Include="Queue_source.cpp">
-      <Filter>소스 파일\3. ALGORITHM\Queue</Filter>
+      <Filter>소스 파일\3. DATA STRUCTURE\Queue</Filter>
     </ClCompile>
     <ClCompile Include="Queue.cpp">
-      <Filter>소스 파일\3. ALGORITHM\Queue</Filter>
+      <Filter>소스 파일\3. DATA STRUCTURE\Queue</Filter>
     </ClCompile>
     <ClCompile Include="4673_SelfNumber.cpp">
       <Filter>소스 파일\1. BAEKJOON</Filter>
@@ -105,9 +120,6 @@
     <ClCompile Include="1712_BREAK-EVEN-POINT.cpp">
       <Filter>소스 파일\1. BAEKJOON</Filter>
     </ClCompile>
-    <ClCompile Include="a.cpp">
-      <Filter>소스 파일\1. BAEKJOON</Filter>
-    </ClCompile>
     <ClCompile Include="cVector.cpp">
       <Filter>소스 파일\2. C++\CLASS\GEOMETRY\Vector</Filter>
     </ClCompile>
@@ -115,7 +127,7 @@
       <Filter>소스 파일\2. C++\CLASS\GEOMETRY\Vector</Filter>
     </ClCompile>
     <ClCompile Include="Permutation.cpp">
-      <Filter>소스 파일\3. ALGORITHM\Permutation</Filter>
+      <Filter>소스 파일\4. ALGORITHM\Permutation</Filter>
     </ClCompile>
     <ClCompile Include="OperatorSource.cpp">
       <Filter>소스 파일\2. C++\CLASS\Operator</Filter>
@@ -148,7 +160,7 @@
       <Filter>소스 파일\2. C++\CLASS\Static/Pointer in Class</Filter>
     </ClCompile>
     <ClCompile Include="Calculator.cpp">
-      <Filter>소스 파일\3. ALGORITHM\Calculator</Filter>
+      <Filter>소스 파일\4. ALGORITHM\Calculator</Filter>
     </ClCompile>
     <ClCompile Include="tabtenn1.cpp">
       <Filter>소스 파일\2. C++\CLASS\INHERITANCE\TableTennis</Filter>
@@ -163,7 +175,7 @@
       <Filter>소스 파일\2. C++\CLASS\GEOMETRY\GEOMETRIC_OBJECT</Filter>
     </ClCompile>
     <ClCompile Include="TowerOfHanoi.cpp">
-      <Filter>소스 파일\3. ALGORITHM\Tower of Hanoi</Filter>
+      <Filter>소스 파일\4. ALGORITHM\Tower of Hanoi</Filter>
     </ClCompile>
     <ClCompile Include="StopWatch_source.cpp">
       <Filter>소스 파일\2. C++\CLASS\StopWatch</Filter>
@@ -171,16 +183,31 @@
     <ClCompile Include="StopWatch.cpp">
       <Filter>소스 파일\2. C++\CLASS\StopWatch</Filter>
     </ClCompile>
-    <ClCompile Include="TEMP22.cpp">
-      <Filter>소스 파일\5.Temp</Filter>
+    <ClCompile Include="Temp_12.cpp">
+      <Filter>소스 파일\1. BAEKJOON</Filter>
+    </ClCompile>
+    <ClCompile Include="error4.cpp">
+      <Filter>소스 파일\2. C++\CLASS\ExceptionHandling</Filter>
+    </ClCompile>
+    <ClCompile Include="Bubble_Sorting.cpp">
+      <Filter>소스 파일\4. ALGORITHM\Sorting\Bubble Sorting</Filter>
+    </ClCompile>
+    <ClCompile Include="TEEMP.cpp">
+      <Filter>소스 파일\Etc\tmp</Filter>
+    </ClCompile>
+    <ClCompile Include="aaa.cpp">
+      <Filter>소스 파일\Etc\tmp</Filter>
+    </ClCompile>
+    <ClCompile Include="tttemp.cpp">
+      <Filter>소스 파일\Etc\tmp</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Stack.h">
-      <Filter>소스 파일\3. ALGORITHM\Stack</Filter>
+      <Filter>소스 파일\3. DATA STRUCTURE\Stack</Filter>
     </ClInclude>
     <ClInclude Include="Queue.h">
-      <Filter>소스 파일\3. ALGORITHM\Queue</Filter>
+      <Filter>소스 파일\3. DATA STRUCTURE\Queue</Filter>
     </ClInclude>
     <ClInclude Include="cVector.h">
       <Filter>소스 파일\2. C++\CLASS\GEOMETRY\Vector</Filter>
@@ -212,13 +239,16 @@
     <ClInclude Include="StopWatch.h">
       <Filter>소스 파일\2. C++\CLASS\StopWatch</Filter>
     </ClInclude>
+    <ClInclude Include="exc_mean.h">
+      <Filter>소스 파일\2. C++\CLASS\ExceptionHandling</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="Memo.txt">
-      <Filter>소스 파일\4. TEXT</Filter>
+      <Filter>소스 파일\Etc\txt</Filter>
     </Text>
     <Text Include="Temp.txt">
-      <Filter>소스 파일\4. TEXT</Filter>
+      <Filter>소스 파일\Etc\txt</Filter>
     </Text>
   </ItemGroup>
 </Project>
