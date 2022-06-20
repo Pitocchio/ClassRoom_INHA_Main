@@ -85,9 +85,6 @@
     <Filter Include="소스 파일\4. ALGORITHM\Sorting">
       <UniqueIdentifier>{ea66493b-ea4e-4a9d-bbb6-7c5a4a3892fc}</UniqueIdentifier>
     </Filter>
-    <Filter Include="소스 파일\4. ALGORITHM\Sorting\Bubble Sorting">
-      <UniqueIdentifier>{a5ccc60f-aada-44ad-b78b-23024f8c981d}</UniqueIdentifier>
-    </Filter>
     <Filter Include="소스 파일\Etc">
       <UniqueIdentifier>{7169a019-9008-4294-939d-a6ec106522c3}</UniqueIdentifier>
     </Filter>
@@ -183,14 +180,8 @@
     <ClCompile Include="StopWatch.cpp">
       <Filter>소스 파일\2. C++\CLASS\StopWatch</Filter>
     </ClCompile>
-    <ClCompile Include="Temp_12.cpp">
-      <Filter>소스 파일\1. BAEKJOON</Filter>
-    </ClCompile>
     <ClCompile Include="error4.cpp">
       <Filter>소스 파일\2. C++\CLASS\ExceptionHandling</Filter>
-    </ClCompile>
-    <ClCompile Include="Bubble_Sorting.cpp">
-      <Filter>소스 파일\4. ALGORITHM\Sorting\Bubble Sorting</Filter>
     </ClCompile>
     <ClCompile Include="TEEMP.cpp">
       <Filter>소스 파일\Etc\tmp</Filter>
@@ -200,6 +191,24 @@
     </ClCompile>
     <ClCompile Include="tttemp.cpp">
       <Filter>소스 파일\Etc\tmp</Filter>
+    </ClCompile>
+    <ClCompile Include="File_Divide.cpp">
+      <Filter>소스 파일\Etc\tmp</Filter>
+    </ClCompile>
+    <ClCompile Include="File_Merger.cpp">
+      <Filter>소스 파일\Etc\tmp</Filter>
+    </ClCompile>
+    <ClCompile Include="Bubble_Sorting.cpp">
+      <Filter>소스 파일\4. ALGORITHM\Sorting</Filter>
+    </ClCompile>
+    <ClCompile Include="Shell_Sorting.cpp">
+      <Filter>소스 파일\4. ALGORITHM\Sorting</Filter>
+    </ClCompile>
+    <ClCompile Include="Selection_Sorting.cpp">
+      <Filter>소스 파일\4. ALGORITHM\Sorting</Filter>
+    </ClCompile>
+    <ClCompile Include="Insertion_Sorting.cpp">
+      <Filter>소스 파일\4. ALGORITHM\Sorting</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
