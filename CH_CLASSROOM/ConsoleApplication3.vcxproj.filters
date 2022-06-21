@@ -210,6 +210,9 @@
     <ClCompile Include="Insertion_Sorting.cpp">
       <Filter>소스 파일\4. ALGORITHM\Sorting</Filter>
     </ClCompile>
+    <ClCompile Include="Quick_Sorting.cpp">
+      <Filter>소스 파일\4. ALGORITHM\Sorting</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Stack.h">
