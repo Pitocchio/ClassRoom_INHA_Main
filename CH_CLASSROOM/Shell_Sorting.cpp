@@ -30,7 +30,7 @@ int main(void)
 	t1.Start();
 	Sort_Shell(arr, iSize);
 	t1.Stop();
-	cout << "\n정렬 종류 : Shell_Sort\n";
+	cout << "\n정렬 종류 : Bubble_Sort\n";
 	cout << "\n소요 시간 : " << t1.Get_ElapsedTime() << "ms\n";
 	//Print_SortedData(arr, iSize);
 
