@@ -30,9 +30,8 @@ int main(void)
 	t1.Start();
 	Sort_Shell(arr, iSize);
 	t1.Stop();
-	cout << "\n정렬 종류 : Bubble_Sort\n";
+	cout << "\n정렬 종류 : Quick_Sort\n";
 	cout << "\n소요 시간 : " << t1.Get_ElapsedTime() << "ms\n";
-	//Print_SortedData(arr, iSize);
 
 	delete[] arr;
 }
@@ -49,7 +48,7 @@ void Sort_Shell(int arr[], int iSize)
 	{
 		for (int h = 0; h < iPivot; ++h) // n-정렬 (n의 값은 Pivot의 값과 같다)
 		{
-			for (int i = iPivot+h; i < iSize; i += iPivot) // 현 인덱스(Pivot), 삽입정렬
+			for (int i = iPivot+h; i < iSize; i += iPivot) //r 현 인덱스(Pivot), 삽입정렬
 			{
 				iMin = arr[i];
 				for (int j = i; j >= 0; j -= iPivot) // 현 인덱스 앞 요소들을 차례로 현 인덱스와 비교
