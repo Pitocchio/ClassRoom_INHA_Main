@@ -13,7 +13,7 @@ int main(void)
 {
 	int iSize(0);
 
-	cout << "데이터의 갯수를 입력해주세요 => ";
+	cout << "데이터의 개수를 입력해주세요 => ";
 	cin >> iSize;
 
 	int* arr = new int[iSize];
