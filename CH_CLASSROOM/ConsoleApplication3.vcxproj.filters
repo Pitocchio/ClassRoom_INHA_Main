@@ -94,7 +94,7 @@
     <Filter Include="소스 파일\Etc\txt">
       <UniqueIdentifier>{2ed0029a-3322-4087-938c-d4b60740e817}</UniqueIdentifier>
     </Filter>
-    <Filter Include="소스 파일\4. ALGORITHM\SEARCH">
+    <Filter Include="소스 파일\4. ALGORITHM\StringMatching">
       <UniqueIdentifier>{6f73ec39-1d19-43ff-b1e8-f5d4e13d770e}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
@@ -226,7 +226,10 @@
       <Filter>소스 파일\4. ALGORITHM\Sorting</Filter>
     </ClCompile>
     <ClCompile Include="BruteForce.cpp">
-      <Filter>소스 파일\4. ALGORITHM\SEARCH</Filter>
+      <Filter>소스 파일\4. ALGORITHM\StringMatching</Filter>
+    </ClCompile>
+    <ClCompile Include="KMP.cpp">
+      <Filter>소스 파일\4. ALGORITHM\StringMatching</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
