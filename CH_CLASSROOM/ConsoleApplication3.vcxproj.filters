@@ -231,6 +231,9 @@
     <ClCompile Include="KMP.cpp">
       <Filter>소스 파일\4. ALGORITHM\StringMatching</Filter>
     </ClCompile>
+    <ClCompile Include="BoyerMoore.cpp">
+      <Filter>소스 파일\4. ALGORITHM\StringMatching</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Stack.h">

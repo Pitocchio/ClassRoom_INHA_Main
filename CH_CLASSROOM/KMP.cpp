@@ -10,7 +10,6 @@ int main(void)
 {
 	int iOriginNum, iSearchNum;
 	
-	// Get the Data
 	cout << "원본에 입력할 문자의 개수를 입력해주세요 => ";
 	cin >> iOriginNum;
 	char* arrOriginTxt = new char[iOriginNum + 1];
