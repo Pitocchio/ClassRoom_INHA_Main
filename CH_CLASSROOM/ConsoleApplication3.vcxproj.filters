@@ -97,6 +97,9 @@
     <Filter Include="소스 파일\4. ALGORITHM\StringMatching">
       <UniqueIdentifier>{6f73ec39-1d19-43ff-b1e8-f5d4e13d770e}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\3. DATA STRUCTURE\LinkedList">
+      <UniqueIdentifier>{036c633c-47cf-46a1-bb29-b5a18e805af2}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Stack_source.cpp">
@@ -234,6 +237,15 @@
     <ClCompile Include="BoyerMoore.cpp">
       <Filter>소스 파일\4. ALGORITHM\StringMatching</Filter>
     </ClCompile>
+    <ClCompile Include="kkkkkkkkkkkk.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Link.cpp">
+      <Filter>소스 파일\3. DATA STRUCTURE\LinkedList</Filter>
+    </ClCompile>
+    <ClCompile Include="Maain.cpp">
+      <Filter>소스 파일\3. DATA STRUCTURE\LinkedList</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Stack.h">
@@ -274,6 +286,9 @@
     </ClInclude>
     <ClInclude Include="exc_mean.h">
       <Filter>소스 파일\2. C++\CLASS\ExceptionHandling</Filter>
+    </ClInclude>
+    <ClInclude Include="Link.h">
+      <Filter>소스 파일\3. DATA STRUCTURE\LinkedList</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
