@@ -100,6 +100,12 @@
     <Filter Include="소스 파일\3. DATA STRUCTURE\LinkedList">
       <UniqueIdentifier>{036c633c-47cf-46a1-bb29-b5a18e805af2}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\3. DATA STRUCTURE\LinkedList\Single_LinkedList">
+      <UniqueIdentifier>{d43ab951-df40-45d2-895b-f378fa43a023}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\3. DATA STRUCTURE\LinkedList\Double_LinkedList">
+      <UniqueIdentifier>{7991d787-c581-4342-bca4-f6948f6e5ffd}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Stack_source.cpp">
@@ -237,14 +243,17 @@
     <ClCompile Include="BoyerMoore.cpp">
       <Filter>소스 파일\4. ALGORITHM\StringMatching</Filter>
     </ClCompile>
-    <ClCompile Include="kkkkkkkkkkkk.cpp">
-      <Filter>소스 파일</Filter>
+    <ClCompile Include="Single_LinkedList_Source.cpp">
+      <Filter>소스 파일\3. DATA STRUCTURE\LinkedList\Single_LinkedList</Filter>
     </ClCompile>
-    <ClCompile Include="Link.cpp">
-      <Filter>소스 파일\3. DATA STRUCTURE\LinkedList</Filter>
+    <ClCompile Include="Single_LinkedList.cpp">
+      <Filter>소스 파일\3. DATA STRUCTURE\LinkedList\Single_LinkedList</Filter>
     </ClCompile>
-    <ClCompile Include="Maain.cpp">
-      <Filter>소스 파일\3. DATA STRUCTURE\LinkedList</Filter>
+    <ClCompile Include="Double_LinkedList.cpp">
+      <Filter>소스 파일\3. DATA STRUCTURE\LinkedList\Double_LinkedList</Filter>
+    </ClCompile>
+    <ClCompile Include="Double_LinkedList_Src.cpp">
+      <Filter>소스 파일\3. DATA STRUCTURE\LinkedList\Double_LinkedList</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
@@ -287,8 +296,11 @@
     <ClInclude Include="exc_mean.h">
       <Filter>소스 파일\2. C++\CLASS\ExceptionHandling</Filter>
     </ClInclude>
-    <ClInclude Include="Link.h">
-      <Filter>소스 파일\3. DATA STRUCTURE\LinkedList</Filter>
+    <ClInclude Include="Single_LinkedList.h">
+      <Filter>소스 파일\3. DATA STRUCTURE\LinkedList\Single_LinkedList</Filter>
+    </ClInclude>
+    <ClInclude Include="Double_LinkedList.h">
+      <Filter>소스 파일\3. DATA STRUCTURE\LinkedList\Double_LinkedList</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>

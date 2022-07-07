@@ -1,3 +1,4 @@
-﻿  Link.cpp
-D:\ClassRoom_INHA\CH_CLASSROOM\Link.cpp(6,7): warning C4553: '==': 식의 결과가 사용되지 않습니다. '='을(를) 의도했습니까?
+﻿  Double_LinkedList.cpp
+  Double_LinkedList_Src.cpp
+D:\ClassRoom_INHA\CH_CLASSROOM\Double_LinkedList_Src.cpp(5,7): warning C4553: '==': 식의 결과가 사용되지 않습니다. '='을(를) 의도했습니까?
   ConsoleApplication3.vcxproj -> D:\ClassRoom_INHA\CH_CLASSROOM\Debug\ConsoleApplication3.exe
