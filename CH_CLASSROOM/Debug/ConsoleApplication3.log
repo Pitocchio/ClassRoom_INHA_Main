@@ -1,4 +1,2 @@
-﻿  Double_LinkedList.cpp
-  Double_LinkedList_Src.cpp
-D:\ClassRoom_INHA\CH_CLASSROOM\Double_LinkedList_Src.cpp(5,7): warning C4553: '==': 식의 결과가 사용되지 않습니다. '='을(를) 의도했습니까?
-  ConsoleApplication3.vcxproj -> D:\ClassRoom_INHA\CH_CLASSROOM\Debug\ConsoleApplication3.exe
+﻿  Double_LinkedList_Src.cpp
+  ConsoleApplication3.vcxproj -> C:\Users\chanjun\Documents\ClassRoom_INHA_Cplusplus\ClassRoom_INHA_Main\CH_CLASSROOM\Debug\ConsoleApplication3.exe

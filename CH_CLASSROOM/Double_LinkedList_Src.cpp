@@ -2,7 +2,7 @@
 
 Link::Link()
 {
-	head == NULL;
+	head = NULL;
 }
 
 Link::~Link()
@@ -26,8 +26,8 @@ void Link::Add_Student(string name, int number)
 	if (head == NULL) // First input
 	{
 		head = temp;
-		head->next = tail;
-		tail->prev = head;
+		head->next = head;
+		head->prev = head;
 		rewind(stdin);
 		cout << "\n메뉴로 돌아가기 원한다면 엔터를 눌러주세요.\n\n";
 		getchar();
@@ -51,6 +51,7 @@ void Link::Add_Student(string name, int number)
 			getchar();
 			return;
 		}
+		
 		pre = cur;
 		cur = cur->next;
 	}
