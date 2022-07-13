@@ -106,6 +106,9 @@
     <Filter Include="소스 파일\3. DATA STRUCTURE\LinkedList\Double_LinkedList">
       <UniqueIdentifier>{7991d787-c581-4342-bca4-f6948f6e5ffd}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\3. DATA STRUCTURE\Tree">
+      <UniqueIdentifier>{7652c0a9-2e38-4107-ab48-32cb18d04679}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Stack_source.cpp">
@@ -255,6 +258,12 @@
     <ClCompile Include="Double_LinkedList_Src.cpp">
       <Filter>소스 파일\3. DATA STRUCTURE\LinkedList\Double_LinkedList</Filter>
     </ClCompile>
+    <ClCompile Include="BinTree.cpp">
+      <Filter>소스 파일\3. DATA STRUCTURE\Tree</Filter>
+    </ClCompile>
+    <ClCompile Include="Test.cpp">
+      <Filter>소스 파일\3. DATA STRUCTURE\Tree</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Stack.h">
@@ -301,6 +310,9 @@
     </ClInclude>
     <ClInclude Include="Double_LinkedList.h">
       <Filter>소스 파일\3. DATA STRUCTURE\LinkedList\Double_LinkedList</Filter>
+    </ClInclude>
+    <ClInclude Include="BinTree.h">
+      <Filter>소스 파일\3. DATA STRUCTURE\Tree</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
