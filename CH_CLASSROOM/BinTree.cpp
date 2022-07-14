@@ -92,7 +92,7 @@ void PrintTree(const BinNode* p)
 	if (p != NULL)
 	{
 		PrintTree(p->left);
-		cout << "이름 : " << *p->data.name << "\n";
+		cout << "이름 : " << p->data.name << "\n";
 		cout << "번호 : " << p->data.num << "\n\n";
 		PrintTree(p->right);
 	}
@@ -105,5 +105,6 @@ void FreeTree(BinNode* p)
 		FreeTree(p->left);
 		FreeTree(p->right);
 		free(p);
-	}}
+	}
+}
 

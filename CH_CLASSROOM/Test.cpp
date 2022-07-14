@@ -17,7 +17,6 @@ Menu SelectMenu(void)
 	return (Menu)ch;
 }
 
-
 int main(void)
 {
 	Menu menu;
@@ -57,7 +56,7 @@ int main(void)
 			cin >> x.num;
 			if ((temp = Search(root, &x)) != NULL)
 			{
-				cout << "검색결과 : 존재!  " << temp->data.name << "  " << temp->data.num;
+				cout << "\n검색결과 : 존재!  " << temp->data.name << "  " << temp->data.num;
 			}
 			cout << "\n===================================================\n\n";
 			break;
